@@ -13,7 +13,7 @@ I'm a Data Analyst with a background in data analytics, purchasing, inventory, a
 
 ### 📊 Featured Projects
 - **Aircraft Parts Sales & Inventory Dashboard** – Power BI dashboard analysing sales, products, customers, and regional performance.
-- **Aircraft Parts Sales & Inventory Analysis** – SQL project exploring sales trends, customer purchasing patterns, and inventory insights. *(In progress)*
+- **Aircraft Parts Sales & Inventory Analysis** – SQL project exploring sales trends, customer purchasing patterns, and inventory insights.
 
 ### 🎓 Education
 - Postgraduate Certificate – Marketing Research & Analytics
